@@ -3,7 +3,7 @@ services:
     name: laravel-app
     env: docker
     plan: free
-    repo: https://github.com/edroteVilly/mlaravel-crud-app
+    repo: https://github.com/edroteVilly/laravel-crud-app
     branch: main
     dockerContext: .
     dockerfilePath: ./Dockerfile
